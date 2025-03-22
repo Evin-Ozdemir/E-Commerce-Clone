@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+<div><h1>🎯 E-Commerce Clone</h1></div>
+<h4>Hello! I am here with a brand new project. With this E-Commerce (Shopping) Site project that I developed, I designed a platform where products can be discovered, their details can be examined and easily purchased. In the project, a high-performance, scalable and 100% responsive structure was created by using modern files and current technologies.</h4>
+<h4>Star ⭐ the repo if you like what you see 😉 </h4>
+ <div>
+ <h2>📸 Project Demo</h2>
+ <p>Watch the video to see how the project works! 👇</p>
+   
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://github.com/user-attachments/assets/4d10d103-3c48-474b-b364-d81271e0b0ce
 
-## Available Scripts
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<h2>🛠️ Technologies and Libraries Used</h2>
+ <ul>
+   <li>React ⚛️ - UI and component-based structure </li>
+   <li>Redux Toolkit 🛠️ - Global state management</li>
+   <li>React Router Dom 🌍 - Page routing and route management</li>
+   <li>React Icons 🎨 - Modern icon sets</li>
+   <li>React Paginate 📄 - For pagination operations</li>
+   <li>React Slick 🎞️ and Slick Carousel 🎠 - Product slider & carousel structure</li>
+   <li>React Toastify 🔔 - Notification system</li>
+   <li>TailwindCSS 💨 - Modern utility-first CSS framework</li>
+ </ul>  
+ 
+ <h2>🎨 Features</h2>
+ <ul>
+   <li>Product listing and filtering feature</li>
+   <li>Detailed product page</li>
+   <li>Advanced carousel and slider structure</li>
+   <li>Easy navigation with pagination</li>
+   <li>User-friendly and clean interface</li>
+   <li> Feedback flow with notification system</li>
+   <li>Fully responsive and mobile compatible design</li>
+   <li>Powerful and efficient global state management with Redux Toolkit</li>
+ </ul> 
